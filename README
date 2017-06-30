@@ -1,0 +1,39 @@
+
+  Alienwave -- A game by Alessandro Pira
+
+This is a game I wrote in my free time, using ncurses.
+I tested it only on i586 linux, but it should run without problems on
+every *NIX system.
+
+To compile you need the ncurses library (all linux distrib. come with it)
+and you should just type "make; make clean".
+The file alienwave will be crated. You can copy it in your /usr/games
+directory, or wherever you want.
+
+The game is simple... just fire to everything that moves and avoid being
+hit. :-)
+If you want, you can read the file STORY where you will find a little
+background for the game.
+The keys are:
+
+Left arrow, right arrow: move your ship
+Down arrow: stop your ship
+Enter, Space: fire lasers
+S, Backspace, Up arrow: open shields (if the charge is enough)
+Shift+p, p: pause the game (press any key to resume)
+Shift+q, ESC: quit game in any moment
+
+In the upper left corner you can see the charge indicator of the shields. If
+it's empty you cannot raise them. When it starts charging you can open the
+shields... the will last more if the charge is high.
+Beware that the shields won't move... they will stay where you placed them!
+
+In the upper right corner you can see your score.
+If your score is high enough you can encounter Xzarna (see STORY). 
+Write me if you manage to destroy her :-)
+
+This program is under GNU GPL, for more informations see COPYING.
+
+Alessandro Pira
+pira@cs.unibo.it
+

@@ -1,0 +1,72 @@
+
+
+ * THE STORY SO FAR *
+
+
+In the year 3035, the human race has expanded its dominion to all the inner
+planets of the solar system.
+But in the underground of the planet Uranus lives an hostile race: the zorxians.
+When the first human ship reached for Uranus they discovered that these aliens
+are preparing for war.
+And so, there was a big war. It was fought mainly between Jupiter and Saturn,
+but in the last years the humans were in great difficulty.
+
+The last hope of survival was destroying Xzarna, the queen of the zorxians.
+
+For this purpose the humans built 50 super space ships, and sent them to Uranus,
+to accomplish this desperate mission.
+Those pilots fought bravely, but the opposition was great, and they never
+reached Uranus. Only 1 of this super ships managed to come back to Earth,
+unnoticed by the zorxians.
+
+The war was almost lost, and the zorxian fleet was reaching the Earth without
+encountering too much resistence.
+Xzarna, believing that the victory was near, went with the zorxian fleet too.
+This gave a last hope to the humans: they sent all the remainig forces to
+distract the fleet, while the last super ship made the final assault to
+Xzarna and her escort.
+
+In this game you are the pilot of the human super ship, and you'll have to
+fight your way through waves of aliens spaceship, until the giant spaceship
+of Xzarna, where you will fight the final battle.
+
+
+ * ZORXIAN SPACESHIPS *
+
+
+W_W    LITTLE BUG SHIP
+ "
+This is the most common space ship in the zorxian fleet. It could attack in
+packs of 4 or 5 elements, but also alone.
+
+|-v-|  BIG BUG SHIP
+| o |
+ \_/   This ship is an evolution of the little bug. It is bigger and faster.
+Usually it attacks in big waves.
+
+o      ZORXIAN EGG
+
+This is not properly a space ship. It's a genetically deformed egg of Xzarna.
+She probably produces something like 200 eggs every week. 150 of these are
+modified so they can be used in fights as weapons. They could be carried or
+fired upon the opponent.
+
+/^\    ZORXIAN CARRIER
+\_/
+This ship is designed to carry 4 eggs. It throws itself and the carried eggs
+at the opponent, and usually something manages to hit. It is very dangerous
+because it is hard to destroy before it reaches its target.
+
+/~T~\  ZORXIAN SPITTER
+\/|\/
+this ship is the only firing ship of the zorxian fleet. It fires eggs. Usually
+it is escorted by some other ships.
+
+
+ /^~~^~~^\   XZARNA
+( o o o o )
+ \ ~\~/~ /   This is the enormous Xzarna. She fires eggs, and has a lot of ships
+  > O O <    for escort. If you manage to reach her kill her, and your mission
+ (_/\_/\_)   will be successful.
+
+
